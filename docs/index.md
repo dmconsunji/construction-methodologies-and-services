@@ -21,7 +21,7 @@ A concise, practical knowledge base covering construction methodologies used in 
 
 ## Quick links
 -[Concrete Slab Pouring](Concrete Slab Pouring.md)  
--[Escavation and Earthworks](Escavation and Eathworks.md)  
+-[Excavation and Earthworks](Escavation and Earthworks.md)  
 
 > Note: filenames are shown above as the page titles used in this wiki. If a link points to a different filename in the repo, please tell me and I can update them to match the repository.
 
