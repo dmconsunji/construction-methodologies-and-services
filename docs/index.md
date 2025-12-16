@@ -1,20 +1,9 @@
-<img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/2f188e0c-cda0-4ab1-b186-df234606e0ab" />
-
-Welcome to the **construction-methodology-and-services wiki!**
-
-A comprehensive knowledge base on construction methodologies in the **Philippines**, best practices, and service workflows. Includes guidelines, process documentation, and technical references for project execution and quality assurance.  
-
-
--[Concrete Slab Pouring](Concrete Slab Pouring.md)  
--[Escavation and Earthworks](Escavation and Eathworks.md)  
-
-
 <!-- Hero image (kept from original) -->
 ![Construction methodology hero image](https://github.com/user-attachments/assets/2f188e0c-cda0-4ab1-b186-df234606e0ab)
 
 # Construction Methodology & Services — Philippines
 
-Welcome to the **construction-methodology-and-services wiki!**
+Welcome to the **Philippine Construction Methodology & Services WIKI**
 
 A concise, practical knowledge base covering construction methodologies used in the Philippines, recommended best practices, process workflows, and technical references for field and office teams.
 
@@ -31,8 +20,8 @@ A concise, practical knowledge base covering construction methodologies used in 
 ---
 
 ## Quick links
-- [Concrete Slab Pouring.md](Concrete Slab Pouring.md)
-- [Excavation and Earthworks.md](Excavation and Earthworks.md)
+-[Concrete Slab Pouring](Concrete Slab Pouring.md)  
+-[Escavation and Earthworks](Escavation and Eathworks.md)  
 
 > Note: filenames are shown above as the page titles used in this wiki. If a link points to a different filename in the repo, please tell me and I can update them to match the repository.
 
