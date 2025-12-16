@@ -1,5 +1,5 @@
 ---
-title: Construction Methodology & Services — Philippines
+title: Construction Methodology & Services
 ---
 
 <!-- Hero image (kept from original) -->
