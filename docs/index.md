@@ -7,7 +7,7 @@ title: Construction Methodology & Services — Philippines
 
 <!-- Paste your existing docs/index.md content below this front matter -->
 
-# Construction Methodology & Services — Philippines
+# Construction Methodology & Services
 
 
 Welcome to the **Philippine Construction Methodology & Services WIKI**
