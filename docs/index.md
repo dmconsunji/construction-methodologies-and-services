@@ -41,26 +41,15 @@ A concise, practical knowledge base covering construction methodologies used in 
 ---
 
 ## How to use this wiki
-1. Start with the Quick links above for commonly used procedures.
-2. Use the search in GitHub (top-right) to find topics or keywords.
-3. For field teams: print the checklists and attach them to site folders.
-4. For managers: use process sections to standardize workflows across projects.
+1. Browse Topics: Use the sidebar or homepage links to navigate through construction methodologies and services.
+2. Search Pages: Use the search bar (if enabled) or your browser’s Ctrl + F to find keywords.
+3. Follow Links: Click on linked pages for detailed step-by-step guides.
+4. Read Methodologies: Each page includes process steps, best practices, and compliance notes.
+5. Download Resources: Access templates or diagrams attached to relevant pages.
 
 ---
 
-## Contributing
-We welcome contributions — small improvements are very helpful.
-- Create a branch from `main`, add or edit a markdown file in `docs/`, and open a pull request.
-- Include references for technical claims (standards, manufacturer datasheets) when possible.
-- For typos, formatting fixes, or reorganizing content, a short PR description is enough.
 
-Suggested PR checklist:
-- [ ] Spell-check and consistent terminology
-- [ ] Add references for technical recommendations
-- [ ] Include images or diagrams where helpful
-- [ ] Link new pages from this index
-
----
 
 ## Resources & references
 - Local standards and building codes (link them per page where used).
