@@ -3,7 +3,8 @@ title: Construction Methodology & Services
 ---
 
 <!-- Hero image (kept from original) -->
-<img width="878" height="578" alt="image" src="https://github.com/user-attachments/assets/7824ec06-396d-4d8b-93be-b5985aa5f585" />
+<img width="1433" height="931" alt="image" src="https://github.com/user-attachments/assets/12388394-aac5-477d-95d4-278826c9f552" />
+
 
 
 <!-- Paste your existing docs/index.md content below this front matter -->
