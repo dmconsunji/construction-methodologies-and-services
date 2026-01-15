@@ -60,9 +60,9 @@ A concise, practical knowledge base covering construction methodologies used in 
 
 ---
 
-## Contact & license
+## Contact
 - Maintainer: [@dmconsunji](https://github.com/dmconsunji)  
-- License: See the repository LICENSE file for reuse terms.
+
 
 ---
 
