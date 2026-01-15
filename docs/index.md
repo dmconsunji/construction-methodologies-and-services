@@ -1,5 +1,5 @@
 ---
-title: Construction Methodology & Services
+title: Construction Methodologies & Services
 ---
 
 <!-- Hero image (kept from original) -->
@@ -9,10 +9,10 @@ title: Construction Methodology & Services
 
 <!-- Paste your existing docs/index.md content below this front matter -->
 
-# Construction Methodology & Services
+# Construction Methodologies & Services
 
 
-Welcome to the **Philippine Construction Methodology & Services WIKI**
+Welcome to the **Philippine Construction Methodologies & Services WIKI**
 
 A concise, practical knowledge base covering construction methodologies used in the Philippines, recommended best practices, process workflows, and technical references for field and office teams.
 
